@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap');
+
+
+
+.font-text {
+    font-family: 'Poppins';
+}
+
+.card-uno {
+    background-image: url('https://images.wallpaperscraft.com/image/single/fence_grid_hole_133215_1280x720.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px; 
+    padding: 20px; 
+    color: white; 
+  }
+  
+.card-instagram {
+    background-image: url('https://images.wallpaperscraft.com/image/single/texture_relief_3d_156496_1280x720.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px; 
+    padding: 20px; 
+    color: white; 
+  }
+  
+.card-tiktok {
+    background-image: url('https://images.wallpaperscraft.com/image/single/texture_relief_3d_156496_1280x720.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+    padding: 20px; 
+    color: white; 
+  }
+  
+.card-Linkedin {
+    background-image: url('https://images.wallpaperscraft.com/image/single/texture_relief_3d_156496_1280x720.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px; 
+    padding: 20px;
+    color: white; 
+  }
+  
